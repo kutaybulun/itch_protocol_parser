@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="itch_protocol_parser_v1.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="addOrderMPIDparser.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="addOrderMPIDparser.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="addOrderMPIDparser.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="addOrderNoMPIDparser.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="addOrderNoMPIDparser.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="addOrderNoMPIDparser.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ethernetDecoder.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ethernetDecoder.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ethernetDecoder.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ipDecoder.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ipDecoder.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ipDecoder.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="itchMessageTypeDecoder.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="itchMessageTypeDecoder.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="itchMessageTypeDecoder.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="messageParserTop.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="messageParserTop.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="messageParserTop.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="moldUDP64Decoder.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="moldUDP64Decoder.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="moldUDP64Decoder.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="orderBookDirectoryParser.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="orderBookDirectoryParser.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="orderBookDirectoryParser.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="orderBookStateParser.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="orderBookStateParser.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="orderBookStateParser.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="orderDeleteParser.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="orderDeleteParser.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="orderDeleteParser.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="orderExecutedParser.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="orderExecutedParser.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="orderExecutedParser.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="orderExecutedWithPriceParser.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="orderExecutedWithPriceParser.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="orderExecutedWithPriceParser.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="packetRx.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="packetRx.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="packetRx.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tickSizeTableEntryParser.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="tickSizeTableEntryParser.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="tickSizeTableEntryParser.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="top.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="top.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="top.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="top.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="top.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="top.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="top.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="top.xst"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="top_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="udpDecoder.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="udpDecoder.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="udpDecoder.xst"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1694992314" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1694992314">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1694992314" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-1010109385263246132" xil_pn:start_ts="1694992314">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1694992314" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-6072186660858198459" xil_pn:start_ts="1694992314">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1694992314" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1694992314">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1694992314" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-4861304912705368374" xil_pn:start_ts="1694992314">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1694992314" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="2988080280845075520" xil_pn:start_ts="1694992314">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1694992314" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-5266145757697813233" xil_pn:start_ts="1694992314">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1694992387" xil_pn:in_ck="3417387717745172610" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="3811878476458388332" xil_pn:start_ts="1694992314">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name=".lso"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="top.lso"/>
+      <outfile xil_pn:name="top.ngc"/>
+      <outfile xil_pn:name="top.ngr"/>
+      <outfile xil_pn:name="top.prj"/>
+      <outfile xil_pn:name="top.stx"/>
+      <outfile xil_pn:name="top.syr"/>
+      <outfile xil_pn:name="top.xst"/>
+      <outfile xil_pn:name="top_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>

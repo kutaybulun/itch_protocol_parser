@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/kutay/Desktop/MatrixHFTstaj/itch_protocol_parser_v1/itch_protocol_parser_v1/top.xst" -ofn "C:/Users/kutay/Desktop/MatrixHFTstaj/itch_protocol_parser_v1/itch_protocol_parser_v1/top.syr" 
